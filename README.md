@@ -1,4 +1,4 @@
-### Attrition Prediction Project
+## Attrition Prediction Project
 
 ## Overview
 
@@ -29,11 +29,8 @@ The project utilizes data from various sources, including a SQL database, Power 
 
 1. Clone the repository:
    git clone https://github.com/MertBasan/AttritionPrediction.git
-   
 2. Explore the project components in their respective folders.
-
 3. Review the Jupyter Notebook for detailed analysis and machine learning model implementation.
-
 4. Open the Power BI report to visualize key insights from the SQL database.
 
 ## Contributing
@@ -45,7 +42,7 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 4. Push to the branch: git push origin feature/new-feature.
 5. Submit a pull request.
 
-##License 
+## License 
 
 This project is licensed under the MIT License.
 
