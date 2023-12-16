@@ -24,6 +24,8 @@ The project utilizes data from various sources, including a SQL database, Power 
 
 - **Dataset:**
   - The `Final Dataset Attrition.csv` file in the `data` folder contains the pre-processed data used in the analysis.
+  - The data initiall fetched from the online website "Kaggle", under the following link:
+      https://www.kaggle.com/datasets/singhnproud77/hr-attrition-dataset
 
 ## Getting Started
 
